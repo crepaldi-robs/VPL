@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8839bed5-03da-453b-a3ba-2ed4a60b1940" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/VPL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aproximação para o seno de x usando a série de Taylor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bem-vindo a MAC110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bem-vindo ao python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brincando com expressões.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Comentários.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cálculo da distância.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cálculo do dia da semana.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exponenciação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Frequência da roleta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maior subsequência.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Números acima da média.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Par ou ímpar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistência aditiva.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Primordiais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quadrado da diferença.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quadrado de um número.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reordenando dígitos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saudação.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Soma de quadrados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Soma de ímpares consecutivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Soma dos n primeiros pares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Soma dos pares menores que n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tripla pitagórica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Triângulo retângulo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Troca de valores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Valor da função.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verifica divisores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verifica se sequência é uma PG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verifica se um número é triangular.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Área do triângulo.py" afterDir="false" />
-    </list>
+    <list default="true" id="8839bed5-03da-453b-a3ba-2ed4a60b1940" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,12 +95,61 @@
       <option name="presentableId" value="Default" />
       <updated>1715305679457</updated>
       <workItem from="1715305680478" duration="5716000" />
-      <workItem from="1715349884506" duration="3779000" />
+      <workItem from="1715349884506" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1715562719132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715562719132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="302b2264-81fb-47a6-9f59-eb047320774a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="302b2264-81fb-47a6-9f59-eb047320774a">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/VPL$Reordenando_dígitos.coverage" NAME="Reordenando dígitos Coverage Results" MODIFIED="1715307196784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -150,7 +159,7 @@
     <SUITE FILE_PATH="coverage/VPL$main.coverage" NAME="main Coverage Results" MODIFIED="1715350103591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VPL$n_ésimo_dígito.coverage" NAME="n-ésimo dígito Coverage Results" MODIFIED="1715309575990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/VPL$Números_acima_da_média.coverage" NAME="Números acima da média Coverage Results" MODIFIED="1715310738257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/VPL$Soma_de_ímpares_consecutivos.coverage" NAME="Soma de ímpares consecutivos Coverage Results" MODIFIED="1715562485668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Soma_de_ímpares_consecutivos.coverage" NAME="Soma de ímpares consecutivos Coverage Results" MODIFIED="1715562612210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VPL$Primordiais.coverage" NAME="Primordiais Coverage Results" MODIFIED="1715350285761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
