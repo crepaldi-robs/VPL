@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8839bed5-03da-453b-a3ba-2ed4a60b1940" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/VPL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aproximação para o seno de x usando a série de Taylor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bem-vindo a MAC110.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bem-vindo ao python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Brincando com expressões.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comentários.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cálculo da distância.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cálculo do dia da semana.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exponenciação.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frequência da roleta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maior subsequência.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Números acima da média.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Par ou ímpar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistência aditiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Primordiais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quadrado da diferença.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quadrado de um número.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reordenando dígitos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saudação.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soma de quadrados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soma de ímpares consecutivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soma dos n primeiros pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soma dos pares menores que n.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tripla pitagórica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triângulo retângulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Troca de valores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Valor da função.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verifica divisores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verifica se sequência é uma PG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verifica se um número é triangular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Área do triângulo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gFuWVpNtAwXkhw0sCKjCYRsJKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aproximação para o seno de x usando a série de Taylor.executor": "Run",
+    "Python.Frequência da roleta.executor": "Run",
+    "Python.Números acima da média.executor": "Run",
+    "Python.Primordiais.executor": "Run",
+    "Python.Reordenando dígitos.executor": "Run",
+    "Python.Soma de ímpares consecutivos.executor": "Run",
+    "Python.Tripla pitagórica.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.n-ésimo dígito.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="VPL" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8839bed5-03da-453b-a3ba-2ed4a60b1940" name="Changes" comment="" />
+      <created>1715305679457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715305679457</updated>
+      <workItem from="1715305680478" duration="5716000" />
+      <workItem from="1715349884506" duration="3779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VPL$Reordenando_dígitos.coverage" NAME="Reordenando dígitos Coverage Results" MODIFIED="1715307196784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Frequência_da_roleta.coverage" NAME="Frequência da roleta Coverage Results" MODIFIED="1715310158838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Tripla_pitagórica.coverage" NAME="Tripla pitagórica Coverage Results" MODIFIED="1715350909443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Aproximação_para_o_seno_de_x_usando_a_série_de_Taylor.coverage" NAME="Aproximação para o seno de x usando a série de Taylor Coverage Results" MODIFIED="1715308900345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$main.coverage" NAME="main Coverage Results" MODIFIED="1715350103591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$n_ésimo_dígito.coverage" NAME="n-ésimo dígito Coverage Results" MODIFIED="1715309575990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/VPL$Números_acima_da_média.coverage" NAME="Números acima da média Coverage Results" MODIFIED="1715310738257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Soma_de_ímpares_consecutivos.coverage" NAME="Soma de ímpares consecutivos Coverage Results" MODIFIED="1715562485668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/VPL$Primordiais.coverage" NAME="Primordiais Coverage Results" MODIFIED="1715350285761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
